@@ -2,8 +2,8 @@
   "name": "node-ble",
   "description": "Bluetooth Low Energy (BLE) library written with pure Node.js (no bindings) - baked by Bluez via DBus",
   "version": "1.2.0",
-  "repository": "https://github.com/chrvadala/node-ble.git",
-  "author": "chrvadala",
+  "repository": "https://github.com/buildog/node-ble.git",
+  "author": "buildog",
   "license": "MIT",
   "main": "./src/index.js",
   "files": [
@@ -22,7 +22,7 @@
     "bluetooth",
     "bluetooth-le"
   ],
-  "homepage": "https://github.com/chrvadala/node-ble",
+  "homepage": "https://github.com/buildog/node-ble",
   "scripts": {
     "test": "jest --testPathIgnorePatterns=e2e.spec.js",
     "coverage": "jest --testPathIgnorePatterns=e2e.spec.js --coverage",

@@ -2,12 +2,12 @@
 
 Bluetooth Low Energy (BLE) library written with pure Node.js (no bindings) - baked by Bluez via DBus
 
-[![chrvadala](https://img.shields.io/badge/website-chrvadala-orange.svg)](https://chrvadala.github.io)
-[![Test](https://github.com/chrvadala/node-ble/workflows/Test/badge.svg)](https://github.com/chrvadala/node-ble/actions)
-[![Coverage Status](https://coveralls.io/repos/github/chrvadala/node-ble/badge.svg?branch=master)](https://coveralls.io/github/chrvadala/node-ble?branch=master)
+[![buildog](https://img.shields.io/badge/website-buildog-orange.svg)](https://buildog.github.io)
+[![Test](https://github.com/buildog/node-ble/workflows/Test/badge.svg)](https://github.com/buildog/node-ble/actions)
+[![Coverage Status](https://coveralls.io/repos/github/buildog/node-ble/badge.svg?branch=master)](https://coveralls.io/github/buildog/node-ble?branch=master)
 [![npm](https://img.shields.io/npm/v/node-ble.svg?maxAge=2592000?style=plastic)](https://www.npmjs.com/package/node-ble)
 [![Downloads](https://img.shields.io/npm/dm/node-ble.svg)](https://www.npmjs.com/package/node-ble)
-[![Donate](https://img.shields.io/badge/donate-PayPal-green.svg)](https://www.paypal.me/chrvadala/25)
+[![Donate](https://img.shields.io/badge/donate-PayPal-green.svg)](https://www.paypal.me/buildog/25)
 
 # Setup
 ```sh
@@ -224,7 +224,7 @@ yarn test:e2e
 - **1.2** - Upgrades deps
 
 ## Contributors
-- [chrvadala](https://github.com/chrvadala) (author)
+- [buildog](https://github.com/buildog) (author)
 
 ## References
 - https://git.kernel.org/pub/scm/bluetooth/bluez.git/tree/doc/adapter-api.txt
